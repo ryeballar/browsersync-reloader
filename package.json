@@ -1,0 +1,19 @@
+{
+  "name": "browsersync-reloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryeballar/browsersync-reloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryeballar/browsersync-reloader/issues"
+  },
+  "homepage": "https://github.com/ryeballar/browsersync-reloader#readme"
+}

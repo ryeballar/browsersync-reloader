@@ -5,6 +5,6 @@ const fs = require('fs');
 module.exports = {
     plugin: function () { /* noop */},
     hooks: {
-        'client:js': fs.readFileSync("./reloader.js", "utf-8") // Link to your file
+        'client:js': fs.readFileSync(__dirname + '/reloader.js', 'utf-8')
     }
 };
